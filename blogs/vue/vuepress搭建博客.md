@@ -24,7 +24,7 @@ sticky: 1
 ## 博客说明
 
  使用vue-press搭建需要配置大量的参数这是一件非常痛苦的事情，so我尝试去找别人配置，再寻找的过程中，发现了vuepress-theme-reco这个主题框架它是根据vue-press二次封装的框架，下载使用指定命令就可以立即搭建，但是使用vuepress-theme-recos搭建出来的页面是一个官方提供的页面并没有特别华丽，也没有达到我想要的私人定制的感觉。
-![官网图片](https:// kedazhu.github.io/mkimage/20221229/gw.png)
+![官网图片](https://kedazhu.github.io/mkimage/20221229/gw.png)
 
 但是要我从头开始去改页面样式我觉对我来说还是太艰巨了（懒）。于是我就去了vue-theme-recos的官网，在[案列](https://vuepress-theme-reco.recoluan.com/views/other/theme-example.html "案列")查看那些大佬自己改动的样式。然后就发现了[zealsay](https://www.zealsay.com/)这位大佬，他所改动的页面样式很符合我的胃口，于是我去瞄了一眼他的内容，好巧不巧大佬把自己博客的内容全部开源了，so我就直接git clone 拉下来，在上面进行修改了。
 ![网络图片地址](https://kedazhu.github.io/mkimage/20221229/dl.png)
