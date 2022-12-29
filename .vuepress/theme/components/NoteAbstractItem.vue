@@ -59,11 +59,6 @@
     },
     methods: {
       index_postion() {
-        console.log(1,this.one_flags == true && (this.index_postion_num == 0 || this.index_postion_num == 1))
-        console.log(2,this.one_flags == true)
-        console.log(3,this.index_postion_num == 0)
-        console.log(4,this.index_postion_num == 1)
-        console.log(5,(this.index_postion_num == 0 || this.index_postion_num == 1))
         const img_list = [
           this.bj1,
           this.bj2,

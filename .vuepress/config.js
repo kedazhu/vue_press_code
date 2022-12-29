@@ -2,7 +2,7 @@ module.exports = {
   "title": "可达猪丶",
   "description": "一名小公司的IT软件实施人员，励志当一名前端开发！",
   "dest": "dist",
-  'base': '/kedazhu_blog/',
+  'base': '/',
   "head": [
     // [
     //   "link",
